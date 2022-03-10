@@ -1,2 +1,7 @@
-# Jogo-de-Naves
- Jogo de Naves - DIO
+Jogo de Naves
+
+Digital Innovation One
+
+HTML, CSS e Javascript.
+
+
